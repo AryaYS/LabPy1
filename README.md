@@ -1,2 +1,2 @@
 # LabPy1
-Tugas
+ARYA YUDHA (2502033821)
